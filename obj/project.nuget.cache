@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DYpHbBVveL4=",
+  "dgSpecHash": "Www6MMpkgx8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Escritorio\\C#\\JOSSAN\\JOSSAN\\JOSSAN.csproj",
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Escritorio\\JOSSAN\\JOSSAN\\JOSSAN.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.9\\microsoft.aspnetcore.authorization.9.0.9.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.9\\microsoft.aspnetcore.components.9.0.9.nupkg.sha512",
